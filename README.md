@@ -24,9 +24,8 @@ Exemplo de Webbrowser Python
 
 ```sh
 .
-├── gitignore
 ├── README.md
-└── pmain.py
+└── main.py
 ```
 
 ## 👋🏽 DEMO
