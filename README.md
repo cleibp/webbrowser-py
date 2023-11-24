@@ -10,7 +10,7 @@ Exemplo de Webbrowser Python
     ### Clonando
 
     ```bash
-    git clone git@github.com:cleibp/code-python.git
+    git clone git@github.com:cleibp/webbrowser-py.git
     ```
 1. Download:
     ### Download Manual
